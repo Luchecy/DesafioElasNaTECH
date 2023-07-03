@@ -1,0 +1,46 @@
+.cor-de-fundo{
+    background-color: #C289FA;
+    font-family: 'Roboto', sans-serif;
+}
+
+.tamanho{
+    width: 500px;
+    height: 200px;
+}
+
+.margem{
+    margin: 20px C289FA;
+}
+
+.borda{
+    border: 20px solid #3D167A;
+}
+
+.preenchimento{
+    padding: 80px;
+}
+
+a{
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 5px;
+    color: #000000;
+    transition: all .2s ease-in-out;
+}
+
+a:hover{
+    background-color: #3D167A;
+    color: white; 
+}
+
+/* body{
+    background-color: rgba(194, 137, 250, 0.596);
+} */
+
+hr{
+    border-color: #3D167A;
+}
+
+.cor-de-titulos{
+    color: #3D167A;
+}
