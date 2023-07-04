@@ -16,7 +16,7 @@
 
 .borda{
     margin: 0px;
-    border: 20px solid #000000;
+    border: 20px solid #C289FA98;
     padding: 0%;
 }
 
@@ -66,14 +66,13 @@ hr{
     color: #C289FA;
     background-color: #3D167A;
     padding: 80px;
-    width: 560px;
+    width: 1000px;
+   
 }
 
 .cor-de-box3{
     color: #C289FA;
     background-color: #3D167A;
-    width: 580px;
-
-
+    width: 960px;
 
 }
