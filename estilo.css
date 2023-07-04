@@ -9,15 +9,20 @@
 }
 
 .margem{
-    margin: 20px C289FA;
+    margin: 80px #3D167A;
+    padding: 0%;
+    border: 0%;
 }
 
 .borda{
-    border: 20px solid #3D167A;
+    margin: 0px;
+    border: 20px solid #000000;
+    padding: 0%;
 }
 
 .preenchimento{
-    padding: 80px;
+    padding: 80px #3D167A;
+    color: hotpink;
 }
 
 a{
@@ -33,9 +38,9 @@ a:hover{
     color: white; 
 }
 
-/* body{
+body{
     background-color: rgba(194, 137, 250, 0.596);
-} */
+}
 
 hr{
     border-color: #3D167A;
@@ -43,4 +48,32 @@ hr{
 
 .cor-de-titulos{
     color: #3D167A;
+}
+
+.cor-de-box{
+    color: #C289FA;
+    background-color: #3D167A;
+
+}
+
+.cor-de-box1{
+    color: #C289FA;
+    background-color: #3D167A;
+    margin: 80px;
+}
+
+.cor-de-box2{
+    color: #C289FA;
+    background-color: #3D167A;
+    padding: 80px;
+    width: 560px;
+}
+
+.cor-de-box3{
+    color: #C289FA;
+    background-color: #3D167A;
+    width: 580px;
+
+
+
 }
