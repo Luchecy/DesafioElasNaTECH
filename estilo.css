@@ -50,29 +50,23 @@ hr{
     color: #3D167A;
 }
 
-.cor-de-box{
+.cor-padrao{
     color: #C289FA;
     background-color: #3D167A;
 
 }
 
 .cor-de-box1{
-    color: #C289FA;
-    background-color: #3D167A;
     margin: 80px;
 }
 
 .cor-de-box2{
-    color: #C289FA;
-    background-color: #3D167A;
     padding: 80px;
-    width: 800px;
+    width: 1000px;
    
 }
 
 .cor-de-box3{
-    color: #C289FA;
-    background-color: #3D167A;
-    width: 850px;
+    width: 1000px;
 
 }
